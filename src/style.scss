@@ -1,4 +1,4 @@
-$navbar-brand-logo: url('~coreui-styles/img/logo.png');
+$navbar-brand-logo: url('~coreui-styles/img/logo.png') !default;
 
 @import '~coreui-styles/scss/style.scss';
 @import '~simple-line-icons/css/simple-line-icons.css';

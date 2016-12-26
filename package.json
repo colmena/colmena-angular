@@ -1,16 +1,16 @@
 {
-  "name": "@colmena/angular",
+  "name": "@colmena/colmena-angular",
   "version": "0.0.5",
   "description": "",
   "private": false,
   "keywords": [],
-  "homepage": "https://github.com/colmena/angular",
+  "homepage": "https://github.com/colmena/colmena-angular",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colmena/angular"
+    "url": "https://github.com/colmena/colmena-angular"
   },
   "bugs": {
-    "url": "https://github.com/colmena/angular/issues"
+    "url": "https://github.com/colmena/colmena-angular/issues"
   },
   "author": "Bram Borggreve <bram@colmena.io>",
   "license": "MIT",
