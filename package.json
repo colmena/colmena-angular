@@ -1,7 +1,7 @@
 {
   "name": "@colmena/colmena-angular",
   "version": "0.0.5",
-  "description": "",
+  "description": "Meta package for Angular dependencies of Colmena CMS",
   "private": false,
   "keywords": [],
   "homepage": "https://github.com/colmena/colmena-angular",
@@ -14,7 +14,6 @@
   },
   "author": "Bram Borggreve <bram@colmena.io>",
   "license": "MIT",
-  "main": "index.js",
   "scripts": {
     "test": "true"
   },
@@ -33,6 +32,7 @@
     "@types/jasmine": "2.5.38",
     "@types/lodash": "4.14.44",
     "@types/node": "6.0.53",
+    "@types/socket.io-client": "1.4.29",
     "angular-cli": "1.0.0-beta.24",
     "codelyzer": "2.0.0-beta.4",
     "core-js": "2.4.1",
@@ -52,6 +52,7 @@
     "protractor": "4.0.14",
     "rxjs": "5.0.2",
     "simple-line-icons": "^2.4.1",
+    "socket.io-client": "1.7.2",
     "sweetalert2": "6.2.4",
     "ts-helpers": "1.1.2",
     "ts-node": "1.7.2",
