@@ -1,6 +1,6 @@
 {
   "name": "@colmena/colmena-angular",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Meta package for Angular dependencies of Colmena CMS",
   "private": false,
   "keywords": [],
