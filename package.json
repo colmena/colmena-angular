@@ -35,7 +35,7 @@
     "@ngrx/store": "2.2.1",
     "@ngrx/store-devtools": "3.2.3",
     "@types/jasmine": "2.5.41",
-    "@types/lodash": "4.14.52",
+    "@types/lodash": "4.14.50",
     "@types/node": "7.0.5",
     "@types/socket.io-client": "1.4.29",
     "codelyzer": "2.0.0-beta.4",
@@ -65,7 +65,7 @@
     "ts-helpers": "1.1.2",
     "ts-node": "2.0.0",
     "tslint": "4.4.2",
-    "typescript": "2.1.5",
+    "typescript": "2.0.10",
     "zone.js": "0.7.6"
   },
   "greenkeeper": {
